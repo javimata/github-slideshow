@@ -22,7 +22,7 @@ author:      GitHubTeacher
 description: A fun activity for learning Git and GitHub.
 
 sass:
-  style:     :compressed
+  style:     :uncompressed
 
 ## solarized variant (dark/light)
 solarized:
